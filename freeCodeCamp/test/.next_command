@@ -345,3 +345,9 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv index.js clinet/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv index.js client/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
