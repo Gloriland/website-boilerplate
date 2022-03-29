@@ -333,3 +333,9 @@ history -a
 mkdir client
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mdir clinet/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
