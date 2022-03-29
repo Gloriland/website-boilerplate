@@ -186,3 +186,15 @@ history -a
 touch roboto.font
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch lato
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm lato
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch lato.font
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
