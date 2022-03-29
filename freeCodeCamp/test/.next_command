@@ -130,3 +130,8 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo hello website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
