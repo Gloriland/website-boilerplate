@@ -780,3 +780,12 @@ history -a
 echo I made this boilerplate >> README.md
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mor
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+more README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
