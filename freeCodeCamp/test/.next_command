@@ -636,3 +636,42 @@ history -a
 mkdir client/assets/icons
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv CodeRoad.svg client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name CodeRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv client/assets/icons/CodeRoad.svg ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+fnd -name CodeRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv CodeRoad.svg website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm header.png
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv CodeAlly.svg client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
