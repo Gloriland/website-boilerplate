@@ -513,3 +513,126 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icon ./client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons ./client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch icons ./client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm icon
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icon
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd client
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ../..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv icons client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons /client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir icons .client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv icons client/assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
